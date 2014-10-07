@@ -1,5 +1,7 @@
-PATH
-  remote: ../rails_wiki_engine
+GIT
+  remote: git://github.com/Hobogrammer/rails_wiki_engine
+  revision: 53ede2c7181200c6138417910a7ab001da2fc8ab
+  branch: fix
   specs:
     rails_wiki (0.0.3)
       rails (~> 4.1.6)
