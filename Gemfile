@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'paper_trail', '~> 3.0.5'
 gem 'pg'
 gem 'rails', '4.1.6'
+gem 'rails_12factor', group: :production
 gem 'rails_wiki', :git => "git://github.com/Hobogrammer/rails_wiki_engine",  :branch => 'fix'
 gem "redcarpet", '~> 3.1.2'
 gem 'sass-rails', '~> 4.0.3'
